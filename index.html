@@ -11,7 +11,7 @@
 <body>
 
     <header class="site-header">
-        <h1>American Express Card Finder</h1>
+        <h1>AMERICAN EXPRESS <em><span class="accent">Card Finder</span></em></h1>
         <p>Search and filter Amex credit cards by rewards, fees, and card type.</p>
     </header>
 
@@ -22,22 +22,21 @@
             <form class="search-and-filters">
 
                 <div class="filter">
-                    <label for="search">Search</label>
                     <input type="text" id="search" placeholder="Search cards...">
                 </div>
 
                 <div class="filter">
-                    <label for="card-type">Card Type</label>
-                    <select id="card-type">
-                        <option value="">All</option>
+                    <select id="card-type" aria-label="Card Type">
+                        <option value="" selected disabled>Card Type</option>
+                        <option value="all">All</option>
                         <option value="personal">Personal</option>
                         <option value="business">Business</option>
                     </select>
                 </div>
 
                 <div class="filter">
-                    <label for="rewards-category">Rewards Category</label>
-                    <select id="rewards-category">
+                    <select id="rewards-category" aria-label="Rewards Category">
+                        <option value="" selected disabled>Rewards Category</option>
                         <option value="all">All</option>
                         <option value="travel">Travel</option>
                         <option value="dining">Dining</option>
@@ -49,8 +48,8 @@
                 </div>
 
                 <div class="filter">
-                    <label for="annual-fee">Annual Fee</label>
-                    <select id="annual-fee">
+                    <select id="annual-fee" aria-label="Annual Fee">
+                        <option value="" selected disabled>Annual Fee</option>
                         <option value="">Any</option>
                         <option value="no-fee">No Annual Fee</option>
                         <option value="under-100">Under $100</option>

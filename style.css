@@ -1,6 +1,7 @@
 :root {
     --border: rgb(197, 195, 195);
     --paragraph: rgb(96, 96, 96);
+    --amex-blue: #1D8ECE;
 }
 
 body {
@@ -11,16 +12,68 @@ body {
     padding: 0 24px;
 }
 
+.site-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .site-header h1 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.4rem;
+    color: var(--amex-blue);
+    margin: 0;
+    margin-top: 5rem;
+}
+
+h1 .accent {
+    font-size: 3rem;
+    color: var(--paragraph);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .site-header p {
     color: var(--paragraph);
+    font-size: 1.2rem;
 }
 
 .search-and-filters {
     display: flex;
+    align-items: center;
+    padding: 24px;
+    margin: 1rem;
+    gap: 2rem;
     border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+}
+
+#search {
+    background: url("images/icons/search.svg") no-repeat 155px center;
+    background-size: 18px 18px;
+}
+
+.filter select,
+input {
+    color: var(--paragraph);
+    font-size: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.search-and-filters button {
+    font-size: 1rem;
+    color: white;
+    background-color: var(--amex-blue);
+    border: 1px solid var(--paragraph);
+    border-radius: 8px;
+    padding: 8px 16px;
+}
+
+.search-and-filters button:hover {
+    background-color: #1575ac;
+}
+
+.results-section {
     border-bottom: 1px solid var(--border);
 }
