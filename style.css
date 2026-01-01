@@ -5,6 +5,7 @@
 }
 
 body {
+    background-color: #f7f6f2;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -40,6 +41,7 @@ h1 .accent {
 .search-and-filters {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
     padding: 24px;
     margin: 1rem;
     gap: 2rem;
@@ -68,6 +70,7 @@ input {
     border: 1px solid var(--paragraph);
     border-radius: 8px;
     padding: 8px 16px;
+    transition: 0.1s;
 }
 
 .search-and-filters button:hover {
@@ -76,4 +79,99 @@ input {
 
 .results-section {
     border-bottom: 1px solid var(--border);
+}
+
+h2 {
+    margin: 0;
+    margin-top: 1.5rem;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+    padding: 24px 0 48px;
+    width: min(1100px, 100%);
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    padding: 16px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+}
+
+.card img {
+    display: block;
+    align-self: center;
+    width: 67%;
+    height: auto;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    padding: 0;
+    margin: 0;
+}
+
+.card h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    text-align: center;
+    font-size: 1.1rem;
+    color: #1c1c1c;
+}
+
+.card ul {
+    margin: 0;
+    padding-left: 18px;
+    color: var(--paragraph);
+    font-size: 0.9rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card li {
+    padding-bottom: 1rem;
+}
+
+.card-fee {
+    margin: 0;
+    font-weight: 600;
+    color: #222;
+}
+
+.card-tag {
+    font-size: 0.8rem;
+    padding: 4px 10px;
+    border-radius: 999px;
+    border: 1px solid transparent;
+}
+
+.card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.card-fee {
+    margin: 0;
+    font-weight: 600;
+    color: #222;
+    text-align: right;
+}
+
+.card-tag--business {
+    background: #e6f6ec;
+    color: #0c6b3d;
+    border-color: #c7ead7;
+}
+
+.card-tag--personal {
+    background: #eaf6fd;
+    color: #0b6392;
+    border-color: #cfe9f8;
 }
