@@ -1,0 +1,89 @@
+{
+    "id": "delta_skymiles_reserve",
+    "name": "Delta SkyMiles\u00ae Reserve American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline",
+    "image": "/static/images/cards/delta_reserve.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/rates-and-fees/",
+    "annual_fee": 650,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+        {
+            "category": "Delta purchases",
+            "rate": 3,
+            "description": "3X miles on Delta purchases."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X miles on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "delta_status",
+        "lounge_access",
+        "luxury_travel"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 60,000 bonus miles after $5,000 in purchases in the first 6 months.",
+        "value_estimate": 720,
+        "spend_requirement": 5000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "Annual Companion Certificate (First Class/Main Cabin)",
+        "Delta Sky Club access",
+        "Centurion Lounge access (with Delta flight)",
+        "First checked bag free",
+        "Priority boarding",
+        "Upgrade priority",
+        "20% inflight savings",
+        "Global Entry/TSA PreCheck credit"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Platinum",
+        "Amex Blue Business Plus"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "luxury",
+            "lounge_access",
+            "delta"
+        ],
+        "manual_tags": [
+            "delta",
+            "airline",
+            "premium"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

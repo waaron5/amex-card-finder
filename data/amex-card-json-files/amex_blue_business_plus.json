@@ -1,0 +1,92 @@
+{
+    "id": "amex_blue_business_plus",
+    "name": "American Express Blue Business\u00ae Plus Credit Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business",
+    "image": "/static/images/cards/amex_blue_business_plus.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/blue-business-plus-credit-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/blue-business-plus-credit-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7% foreign transaction fee",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~18%\u201327%",
+    "intro_apr": "0% intro APR on purchases for 12 months",
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+        {
+            "category": "All purchases (up to $50K/year)",
+            "rate": 2,
+            "description": "2X Membership Rewards points on everyday business purchases up to $50,000 per calendar year."
+        },
+        {
+            "category": "All purchases after cap",
+            "rate": 1,
+            "description": "1X points after the $50K annual cap."
+        }
+    ],
+    "recommended_goals": [
+        "catch_all",
+        "business",
+        "transfer_partners"
+    ],
+    "sign_up_bonus": {
+        "description": null,
+        "value_estimate": null,
+        "spend_requirement": null,
+        "timeframe_months": null
+    },
+    "credits_and_benefits": [
+        "Expanded Buying Power (flexible spending limit)",
+        "Car rental loss & damage insurance",
+        "No annual fee"
+    ],
+    "transfer_partners": [
+        "Air Canada Aeroplan",
+        "ANA Mileage Club",
+        "British Airways Avios",
+        "Virgin Atlantic",
+        "Singapore KrisFlyer",
+        "Choice Hotels",
+        "Hilton",
+        "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Gold",
+        "Amex Platinum"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "everyday_spending",
+            "catch_all",
+            "business"
+        ],
+        "manual_tags": [
+            "no_annual_fee",
+            "mrx_points"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

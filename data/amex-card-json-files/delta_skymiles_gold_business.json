@@ -1,0 +1,100 @@
+{
+    "id": "delta_skymiles_gold_business",
+    "name": "Delta SkyMiles\u00ae Gold Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline_business",
+    "image": "/static/images/cards/delta_gold_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-business-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-business-american-express-card/rates-and-fees/",
+    "annual_fee": 150,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+        {
+            "category": "Delta purchases",
+            "rate": 2,
+            "description": "2X miles on Delta purchases."
+        },
+        {
+            "category": "U.S. shipping",
+            "rate": 2,
+            "description": "2X miles on U.S. shipping purchases."
+        },
+        {
+            "category": "U.S. advertising (select medias)",
+            "rate": 2,
+            "description": "2X miles on eligible U.S. advertising purchases."
+        },
+        {
+            "category": "Dining",
+            "rate": 2,
+            "description": "2X miles at restaurants."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X miles on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "business_travel",
+        "delta_flyer",
+        "free_bags"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 55,000 bonus miles after $4,000 in purchases in the first 3 months.",
+        "value_estimate": 660,
+        "spend_requirement": 4000,
+        "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+        "First checked bag free",
+        "Priority boarding",
+        "$200 Delta flight credit after $10,000 annual spend",
+        "No foreign transaction fees",
+        "20% inflight savings"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Blue Business Plus",
+        "Business Gold"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "business",
+            "airline",
+            "delta"
+        ],
+        "manual_tags": [
+            "delta",
+            "business_airline"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

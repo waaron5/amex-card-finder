@@ -1,0 +1,94 @@
+{
+    "id": "amex_business_gold",
+    "name": "American Express\u00ae Business Gold Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_travel",
+    "image": "/static/images/cards/amex_business_gold.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/business-gold-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/business-gold-card/rates-and-fees/",
+    "annual_fee": 375,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Pay Over Time APR varies (~20%\u201328%)",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+        {
+            "category": "Top 2 business categories",
+            "rate": 4,
+            "description": "4X points on the top 2 spending categories each billing cycle (selected from eligible business categories)."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X point per dollar on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "business",
+        "flexible_rewards",
+        "high_spend_business"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 70,000 Membership Rewards points after $10,000 in purchases in the first 3 months.",
+        "value_estimate": 700,
+        "spend_requirement": 10000,
+        "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+        "$240 Flexible Business Credit",
+        "$155 Walmart+ Credit",
+        "No foreign transaction fees",
+        "Car rental loss & damage insurance",
+        "Cell phone protection"
+    ],
+    "transfer_partners": [
+        "Air Canada Aeroplan",
+        "British Airways Avios",
+        "ANA Mileage Club",
+        "Virgin Atlantic",
+        "Singapore KrisFlyer",
+        "Choice Hotels",
+        "Hilton",
+        "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Blue Business Plus",
+        "Business Platinum"
+    ],
+    "card_tier": "mid_tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "business",
+            "high_spend",
+            "travel"
+        ],
+        "manual_tags": [
+            "business",
+            "mrx_points"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

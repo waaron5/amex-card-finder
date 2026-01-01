@@ -1,0 +1,2328 @@
+[
+  {
+    "id": "amazon_business_amex",
+    "name": "Amazon Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "retail_business",
+    "image": "images/cards/amazon_business_angled.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/amazon-business-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/amazon-business-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 680,
+    "ongoing_apr": "Variable ~18%\u201327%",
+    "intro_apr": null,
+    "reward_program": "Amazon Rewards",
+    "rewards_currency": "Amazon Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.01,
+    "rewards": [
+      {
+        "category": "Amazon Business / AWS",
+        "rate": 3,
+        "description": "3% back or 60-day terms at Amazon Business, AWS, and Whole Foods Market."
+      },
+      {
+        "category": "U.S. restaurants",
+        "rate": 2,
+        "description": "2% back at U.S. restaurants."
+      },
+      {
+        "category": "U.S. gas stations",
+        "rate": 2,
+        "description": "2% back at U.S. gas stations."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1% back on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "amazon_business",
+      "cash_back",
+      "aws_spend"
+    ],
+    "sign_up_bonus": {
+      "description": "Get a $100 Amazon Gift Card upon approval.",
+      "value_estimate": 100,
+      "spend_requirement": 0,
+      "timeframe_months": 0
+    },
+    "credits_and_benefits": [
+      "No annual fee",
+      "Option for 60-day payment terms instead of rewards",
+      "Employee cards for no additional cost"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; approval also gives immediate $100 gift card credit.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Blue Business Plus"
+    ],
+    "card_tier": "entry_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "business",
+        "amazon"
+      ],
+      "manual_tags": [
+        "amazon",
+        "business",
+        "cash_back"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amazon_business_prime_amex",
+    "name": "Amazon Business Prime American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "retail_business",
+    "image": "images/cards/amazon_business_prime_angled.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/amazon-business-prime-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/amazon-business-prime-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~18%\u201327%",
+    "intro_apr": null,
+    "reward_program": "Amazon Rewards",
+    "rewards_currency": "Amazon Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.01,
+    "rewards": [
+      {
+        "category": "Amazon Business / AWS",
+        "rate": 5,
+        "description": "5% back or 90-day terms at Amazon Business, AWS, Amazon.com, and Whole Foods Market (Business Prime required)."
+      },
+      {
+        "category": "U.S. restaurants",
+        "rate": 2,
+        "description": "2% back at U.S. restaurants."
+      },
+      {
+        "category": "U.S. gas stations",
+        "rate": 2,
+        "description": "2% back at U.S. gas stations."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1% back on other purchases."
+      }
+    ],
+    "recommended_goals": [
+      "amazon_heavy",
+      "aws_spend",
+      "business_cash_back"
+    ],
+    "sign_up_bonus": {
+      "description": "Receive a $125 Amazon Gift Card upon approval.",
+      "value_estimate": 125,
+      "spend_requirement": 0,
+      "timeframe_months": 0
+    },
+    "credits_and_benefits": [
+      "Requires Amazon Business Prime membership",
+      "Option for 90-day payment terms instead of rewards",
+      "No annual fee",
+      "Employee cards at no cost"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business Prime membership required; Amex approval yields instant cashback reward.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Blue Business Plus"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "amazon",
+        "aws",
+        "business"
+      ],
+      "manual_tags": [
+        "amazon",
+        "prime",
+        "business"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_blue_business_plus",
+    "name": "American Express Blue Business\u00ae Plus Credit Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business",
+    "image": "images/cards/amex_blue_business_plus.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/blue-business-plus-credit-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/blue-business-plus-credit-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7% foreign transaction fee",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~18%\u201327%",
+    "intro_apr": "0% intro APR on purchases for 12 months",
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "All purchases (up to $50K/year)",
+        "rate": 2,
+        "description": "2X Membership Rewards points on everyday business purchases up to $50,000 per calendar year."
+      },
+      {
+        "category": "All purchases after cap",
+        "rate": 1,
+        "description": "1X points after the $50K annual cap."
+      }
+    ],
+    "recommended_goals": [
+      "catch_all",
+      "business",
+      "transfer_partners"
+    ],
+    "sign_up_bonus": {
+      "description": null,
+      "value_estimate": null,
+      "spend_requirement": null,
+      "timeframe_months": null
+    },
+    "credits_and_benefits": [
+      "Expanded Buying Power (flexible spending limit)",
+      "Car rental loss & damage insurance",
+      "No annual fee"
+    ],
+    "transfer_partners": [
+      "Air Canada Aeroplan",
+      "ANA Mileage Club",
+      "British Airways Avios",
+      "Virgin Atlantic",
+      "Singapore KrisFlyer",
+      "Choice Hotels",
+      "Hilton",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Gold",
+      "Amex Platinum"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "everyday_spending",
+        "catch_all",
+        "business"
+      ],
+      "manual_tags": [
+        "no_annual_fee",
+        "mrx_points"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_blue_cash_everyday",
+    "name": "Blue Cash Everyday\u00ae Card from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "cash_back",
+    "image": "images/cards/amex_blue_cash_everyday.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable",
+    "intro_apr": null,
+    "reward_program": "Cash Back (Reward Dollars)",
+    "rewards_currency": "Reward Dollars",
+    "point_value_baseline": 0.01,
+    "point_value_max": null,
+    "rewards": [
+      {
+        "category": "U.S. supermarkets",
+        "rate": 3,
+        "description": "3% cash back on up to $6,000 of purchases per year in this category, then 1%."
+      },
+      {
+        "category": "U.S. online retail purchases",
+        "rate": 3,
+        "description": "3% cash back on up to $6,000 of purchases per year in this category, then 1%."
+      },
+      {
+        "category": "U.S. gas stations",
+        "rate": 3,
+        "description": "3% cash back on up to $6,000 of purchases per year in this category, then 1%."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1% cash back on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "no_annual_fee",
+      "everyday_spending",
+      "cash_back"
+    ],
+    "sign_up_bonus": {
+      "description": null,
+      "value_estimate": null,
+      "spend_requirement": null,
+      "timeframe_months": null
+    },
+    "credits_and_benefits": [
+      "$84 streaming credit (Disney Bundle) \u2013 enrollment required"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Standard AMEX credit card eligibility; no annual fee product.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [],
+    "card_tier": "entry",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "budget_friendly",
+        "cash_back",
+        "everyday"
+      ],
+      "manual_tags": [
+        "no_fee",
+        "cash_back"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_blue_cash_preferred",
+    "name": "Blue Cash Preferred\u00ae Card from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "cash_back",
+    "image": "images/cards/amex_blue_cash_preferred.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/rates-and-fees/",
+    "annual_fee": 95,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~19.74%\u201328.74%",
+    "intro_apr": "0% for 12 months on purchases and balance transfers",
+    "reward_program": "Cash Back (Reward Dollars)",
+    "rewards_currency": "Reward Dollars",
+    "point_value_baseline": 0.01,
+    "point_value_max": null,
+    "rewards": [
+      {
+        "category": "U.S. supermarkets",
+        "rate": 6,
+        "description": "6% cash back on up to $6,000 of purchases per year, then 1% back."
+      },
+      {
+        "category": "Select U.S. streaming subscriptions",
+        "rate": 6,
+        "description": "6% cash back on eligible streaming subscriptions."
+      },
+      {
+        "category": "U.S. gas stations",
+        "rate": 3,
+        "description": "3% cash back."
+      },
+      {
+        "category": "Transit (U.S.)",
+        "rate": 3,
+        "description": "3% cash back."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1% cash back on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "grocery_heavy",
+      "streaming_subscriptions",
+      "transit_commuter",
+      "cash_back"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn $250 statement credit after $3,000 in purchases in your first 6 months.",
+      "value_estimate": 250,
+      "spend_requirement": 3000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "$120 annual streaming credit (enrollment required)",
+      "Purchase protection & return protection"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Standard AMEX credit card eligibility; cash back product.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "cash_back",
+        "grocery",
+        "streaming"
+      ],
+      "manual_tags": [
+        "cash_back",
+        "groceries",
+        "streaming"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_business_gold",
+    "name": "American Express\u00ae Business Gold Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_travel",
+    "image": "images/cards/amex_business_gold.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/business-gold-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/business-gold-card/rates-and-fees/",
+    "annual_fee": 375,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Pay Over Time APR varies (~20%\u201328%)",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "Top 2 business categories",
+        "rate": 4,
+        "description": "4X points on the top 2 spending categories each billing cycle (selected from eligible business categories)."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X point per dollar on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "business",
+      "flexible_rewards",
+      "high_spend_business"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 70,000 Membership Rewards points after $10,000 in purchases in the first 3 months.",
+      "value_estimate": 700,
+      "spend_requirement": 10000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "$240 Flexible Business Credit",
+      "$155 Walmart+ Credit",
+      "No foreign transaction fees",
+      "Car rental loss & damage insurance",
+      "Cell phone protection"
+    ],
+    "transfer_partners": [
+      "Air Canada Aeroplan",
+      "British Airways Avios",
+      "ANA Mileage Club",
+      "Virgin Atlantic",
+      "Singapore KrisFlyer",
+      "Choice Hotels",
+      "Hilton",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Blue Business Plus",
+      "Business Platinum"
+    ],
+    "card_tier": "mid_tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "business",
+        "high_spend",
+        "travel"
+      ],
+      "manual_tags": [
+        "business",
+        "mrx_points"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_business_green",
+    "name": "American Express\u00ae Business Green Rewards Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_travel",
+    "image": "images/cards/amex_business_green_rewards.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/business-green-rewards/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/business-green-rewards/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 680,
+    "ongoing_apr": "Pay Over Time APR varies, typically ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "Travel (Amex Travel)",
+        "rate": 2,
+        "description": "2X points on travel booked through American Express Travel."
+      },
+      {
+        "category": "All other purchases",
+        "rate": 1,
+        "description": "1X point on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "business_travel",
+      "membership_rewards"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 15,000 Membership Rewards points after $3,000 in purchases in 3 months.",
+      "value_estimate": 150,
+      "spend_requirement": 3000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "Expanded Buying Power",
+      "Car rental loss & damage insurance",
+      "Baggage insurance",
+      "Employee cards available"
+    ],
+    "transfer_partners": [
+      "Air Canada Aeroplan",
+      "ANA Mileage Club",
+      "British Airways Avios",
+      "Virgin Atlantic",
+      "Singapore KrisFlyer",
+      "Choice Hotels",
+      "Hilton",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex lifetime rule applies for the welcome offer.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Blue Business Plus",
+      "Business Platinum"
+    ],
+    "card_tier": "entry_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "business",
+        "travel"
+      ],
+      "manual_tags": [
+        "business",
+        "travel"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_business_platinum",
+    "name": "The Business Platinum Card\u00ae from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_travel",
+    "image": "images/cards/amex_business_platinum.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/business-platinum-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/business-platinum-card/rates-and-fees/",
+    "annual_fee": 695,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Pay Over Time APR varies (~20%\u201328%)",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "Flights & prepaid hotels (AmexTravel.com)",
+        "rate": 5,
+        "description": "5X points on flights and prepaid hotels booked through Amex Travel."
+      },
+      {
+        "category": "Selected business categories",
+        "rate": 1.5,
+        "description": "1.5X points on eligible purchases in key business categories (over $5k purchases and specific categories designated by Amex)."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X point per dollar on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "premium_business_travel",
+      "airport_lounges",
+      "high_spend",
+      "luxury"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 120,000 Membership Rewards points after $15,000 in purchases in the first 3 months.",
+      "value_estimate": 1200,
+      "spend_requirement": 15000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "$200 Airline Fee Credit",
+      "$400 Dell Credit",
+      "$360 Indeed Credit",
+      "$150 Adobe Credit",
+      "$120 Wireless Credit",
+      "Airport lounge access: Centurion, Priority Pass, Delta Sky Club",
+      "Fine Hotels + Resorts benefits",
+      "Global Entry / TSA PreCheck credit",
+      "Hilton Gold status",
+      "Marriott Gold status",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [
+      "Air Canada Aeroplan",
+      "ANA Mileage Club",
+      "British Airways Avios",
+      "Virgin Atlantic",
+      "Singapore KrisFlyer",
+      "Choice Hotels",
+      "Hilton",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex once-per-lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Blue Business Plus",
+      "Amex Business Gold"
+    ],
+    "card_tier": "premium_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "business",
+        "travel",
+        "luxury"
+      ],
+      "manual_tags": [
+        "premium",
+        "lounge_access",
+        "business"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_gold",
+    "name": "American Express\u00ae Gold Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "travel",
+    "image": "images/cards/amex_gold.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/gold-card/rates-and-fees/",
+    "annual_fee": 250,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Pay Over Time APR varies, typically ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "Dining worldwide",
+        "rate": 4,
+        "description": "4X points at restaurants worldwide, including takeout and delivery."
+      },
+      {
+        "category": "U.S. supermarkets",
+        "rate": 4,
+        "description": "4X points at U.S. supermarkets on up to $25,000 per year, then 1X."
+      },
+      {
+        "category": "Flights",
+        "rate": 3,
+        "description": "3X points on flights booked directly with airlines or via Amex Travel."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X points on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "dining",
+      "groceries",
+      "travel",
+      "foodie"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 60,000 Membership Rewards points after $6,000 spend in the first 6 months.",
+      "value_estimate": 600,
+      "spend_requirement": 6000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "$120 Dining Credit (Grubhub, Cheesecake Factory, etc.)",
+      "$120 Uber Cash",
+      "Car rental loss & damage insurance",
+      "Baggage insurance plan"
+    ],
+    "transfer_partners": [
+      "Air Canada Aeroplan",
+      "ANA Mileage Club",
+      "British Airways Avios",
+      "Delta SkyMiles (indirect)",
+      "Virgin Atlantic",
+      "Singapore KrisFlyer",
+      "Choice Hotels",
+      "Hilton",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Once-per-lifetime welcome offer rules apply.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "American Express Blue Business Plus",
+      "Amex Platinum"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "dining",
+        "groceries",
+        "travel"
+      ],
+      "manual_tags": [
+        "food",
+        "grocery",
+        "mrx_points"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_green",
+    "name": "American Express\u00ae Green Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "travel",
+    "image": "images/cards/amex_green.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/green-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/green-card/rates-and-fees/",
+    "annual_fee": 150,
+    "foreign_fees": "None",
+    "min_credit_score": 680,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "Travel (broad)",
+        "rate": 3,
+        "description": "3X points on travel including flights, hotels, transit, taxis, trains, and more."
+      },
+      {
+        "category": "Transit",
+        "rate": 3,
+        "description": "3X points on transit: rideshare, buses, tolls, etc."
+      },
+      {
+        "category": "Restaurants",
+        "rate": 3,
+        "description": "3X points at restaurants worldwide."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "travel",
+      "transit",
+      "restaurants"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 40,000 Membership Rewards points after $3,000 spend in 6 months.",
+      "value_estimate": 400,
+      "spend_requirement": 3000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "$189 CLEAR Plus Credit",
+      "$100 LoungeBuddy Credit",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [
+      "Air Canada Aeroplan",
+      "ANA Mileage Club",
+      "British Airways Avios",
+      "Virgin Atlantic",
+      "Singapore KrisFlyer",
+      "Choice Hotels",
+      "Hilton",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Once-per-lifetime welcome offer rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Gold",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "travel",
+        "transit",
+        "restaurants"
+      ],
+      "manual_tags": [
+        "mrx_points"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_platinum",
+    "name": "The Platinum Card\u00ae from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "travel",
+    "image": "images/cards/amex_platinum.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/platinum/rates-and-fees/",
+    "annual_fee": 695,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "See Pay Over Time APR: variable, typically 20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+      {
+        "category": "Flights (Amex Travel or airlines direct)",
+        "rate": 5,
+        "description": "5X points on flights booked directly with airlines or through American Express Travel, on up to $500,000 per calendar year."
+      },
+      {
+        "category": "Hotels (Amex Travel)",
+        "rate": 5,
+        "description": "5X points on prepaid hotels booked through Amex Travel."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X point per dollar on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "frequent_travel",
+      "luxury_travel",
+      "airport_lounge_access",
+      "status_chasing",
+      "high_spender"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 80,000 Membership Rewards\u00ae points after spending $8,000 on purchases in the first 6 months.",
+      "value_estimate": 800,
+      "spend_requirement": 8000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "$200 Airline Fee Credit",
+      "$200 Uber Cash",
+      "$240 Digital Entertainment Credit",
+      "$300 Equinox Credit",
+      "$200 Hotel Credit (Fine Hotels + Resorts / The Hotel Collection)",
+      "$189 CLEAR\u00ae Plus Credit",
+      "$155 Walmart+ Credit",
+      "Global Entry / TSA PreCheck Credit",
+      "Centurion Lounge access",
+      "Delta Sky Club access (limitations apply)",
+      "Priority Pass lounges (enrollment required)",
+      "Hilton Honors Gold status",
+      "Marriott Bonvoy Gold Elite status"
+    ],
+    "transfer_partners": [
+      "Delta SkyMiles",
+      "Air Canada Aeroplan",
+      "British Airways Avios",
+      "Virgin Atlantic Flying Club",
+      "Singapore KrisFlyer",
+      "ANA Mileage Club",
+      "Qantas",
+      "Emirates",
+      "JetBlue TrueBlue",
+      "Choice Privileges",
+      "Hilton Honors",
+      "Marriott Bonvoy"
+    ],
+    "eligibility": "Welcome offer not available to applicants who have had this product before (Amex once-per-lifetime rule).",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "American Express Gold Card",
+      "American Express Blue Business Plus"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "travel",
+        "airport_lounges",
+        "luxury",
+        "international_travel"
+      ],
+      "manual_tags": [
+        "premium_travel",
+        "lounge_access",
+        "status"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "amex_plum_card",
+    "name": "The Plum Card\u00ae from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_charge",
+    "image": "images/cards/amex_the_plum_card.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/plum-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/plum-card/rates-and-fees/",
+    "annual_fee": 250,
+    "foreign_fees": "No foreign transaction fees",
+    "min_credit_score": 700,
+    "ongoing_apr": "N/A \u2013 Pay-in-full or pay over time (charge card terms)",
+    "intro_apr": null,
+    "reward_program": "Cash discount",
+    "rewards_currency": "Statement Credit",
+    "point_value_baseline": null,
+    "point_value_max": null,
+    "rewards": [
+      {
+        "category": "Early Pay Discount",
+        "rate": 1.5,
+        "description": "1.5% discount when you pay your balance early (within 10 days of statement closing)."
+      },
+      {
+        "category": "Flexible Pay Terms",
+        "rate": 0,
+        "description": "Take up to 60 days to pay with no interest when minimum payment requirements are met."
+      }
+    ],
+    "recommended_goals": [
+      "business_cash_flow",
+      "flexible_payment",
+      "no_interest"
+    ],
+    "sign_up_bonus": {
+      "description": null,
+      "value_estimate": null,
+      "spend_requirement": null,
+      "timeframe_months": null
+    },
+    "credits_and_benefits": [
+      "Flexible spending limit (no preset spending limit)",
+      "1.5% early payment discount",
+      "Up to 60 days to pay with no interest",
+      "Employee cards at no additional cost",
+      "Purchase protection"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card with charge card terms; early pay discount rules apply.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Blue Business Plus",
+      "Business Platinum"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "business_cash_flow",
+        "flexible_payment"
+      ],
+      "manual_tags": [
+        "charge_card",
+        "business"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_blue",
+    "name": "Delta SkyMiles\u00ae Blue American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline",
+    "image": "images/cards/delta_blue.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "None",
+    "min_credit_score": 680,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Dining worldwide",
+        "rate": 2,
+        "description": "2X miles at restaurants globally."
+      },
+      {
+        "category": "Delta purchases",
+        "rate": 2,
+        "description": "2X miles on Delta purchases."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X miles on all other purchases."
+      }
+    ],
+    "recommended_goals": [
+      "delta_flyer",
+      "no_annual_fee",
+      "airline_rewards"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 10,000 bonus miles after $1,000 in purchases in the first 6 months.",
+      "value_estimate": 120,
+      "spend_requirement": 1000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "No foreign transaction fees",
+      "20% back on inflight purchases"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Gold",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "entry",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "airline",
+        "no_fee",
+        "delta"
+      ],
+      "manual_tags": [
+        "delta",
+        "airline"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_gold",
+    "name": "Delta SkyMiles\u00ae Gold American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline",
+    "image": "images/cards/delta_gold.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/rates-and-fees/",
+    "annual_fee": 150,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Delta purchases",
+        "rate": 2,
+        "description": "2X miles on Delta purchases."
+      },
+      {
+        "category": "Dining worldwide",
+        "rate": 2,
+        "description": "2X miles at restaurants worldwide."
+      },
+      {
+        "category": "U.S. supermarkets",
+        "rate": 2,
+        "description": "2X miles at U.S. supermarkets."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X miles on all other purchases."
+      }
+    ],
+    "recommended_goals": [
+      "delta_flyer",
+      "airline_status",
+      "free_bags"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 40,000 bonus miles after $2,000 in purchases in the first 6 months.",
+      "value_estimate": 480,
+      "spend_requirement": 2000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "First checked bag free",
+      "Priority boarding",
+      "20% back on inflight purchases",
+      "$100 Delta flight credit after $10,000 spend per year"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Gold",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "airline",
+        "delta",
+        "free_bags"
+      ],
+      "manual_tags": [
+        "delta",
+        "airline"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_gold_business",
+    "name": "Delta SkyMiles\u00ae Gold Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline_business",
+    "image": "images/cards/delta_gold_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-business-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-business-american-express-card/rates-and-fees/",
+    "annual_fee": 150,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Delta purchases",
+        "rate": 2,
+        "description": "2X miles on Delta purchases."
+      },
+      {
+        "category": "U.S. shipping",
+        "rate": 2,
+        "description": "2X miles on U.S. shipping purchases."
+      },
+      {
+        "category": "U.S. advertising (select medias)",
+        "rate": 2,
+        "description": "2X miles on eligible U.S. advertising purchases."
+      },
+      {
+        "category": "Dining",
+        "rate": 2,
+        "description": "2X miles at restaurants."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X miles on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "business_travel",
+      "delta_flyer",
+      "free_bags"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 55,000 bonus miles after $4,000 in purchases in the first 3 months.",
+      "value_estimate": 660,
+      "spend_requirement": 4000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "First checked bag free",
+      "Priority boarding",
+      "$200 Delta flight credit after $10,000 annual spend",
+      "No foreign transaction fees",
+      "20% inflight savings"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Blue Business Plus",
+      "Business Gold"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "business",
+        "airline",
+        "delta"
+      ],
+      "manual_tags": [
+        "delta",
+        "business_airline"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_platinum",
+    "name": "Delta SkyMiles\u00ae Platinum American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline",
+    "image": "images/cards/delta_platinum.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/rates-and-fees/",
+    "annual_fee": 350,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Delta purchases",
+        "rate": 3,
+        "description": "3X miles on Delta purchases."
+      },
+      {
+        "category": "Hotels",
+        "rate": 3,
+        "description": "3X miles at hotels."
+      },
+      {
+        "category": "Dining",
+        "rate": 2,
+        "description": "2X miles at restaurants worldwide."
+      },
+      {
+        "category": "Supermarkets",
+        "rate": 2,
+        "description": "2X miles at U.S. supermarkets."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X miles on everything else."
+      }
+    ],
+    "recommended_goals": [
+      "delta_status",
+      "companion_pass",
+      "airline_perks"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 50,000 bonus miles after $3,000 in purchases in the first 6 months.",
+      "value_estimate": 600,
+      "spend_requirement": 3000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "Annual Companion Certificate (Main Cabin)",
+      "First checked bag free",
+      "Priority boarding",
+      "Global Entry/TSA PreCheck credit",
+      "20% inflight savings",
+      "Discounted Sky Club access"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Gold",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "upper_mid_tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "airline",
+        "delta",
+        "companion_pass"
+      ],
+      "manual_tags": [
+        "delta",
+        "airline"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_platinum_business",
+    "name": "Delta SkyMiles\u00ae Platinum Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline_business",
+    "image": "images/cards/delta_platinum_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-business-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-business-american-express-card/rates-and-fees/",
+    "annual_fee": 350,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Delta purchases",
+        "rate": 3,
+        "description": "3X miles on Delta purchases."
+      },
+      {
+        "category": "Hotels",
+        "rate": 3,
+        "description": "3X miles on eligible hotels."
+      },
+      {
+        "category": "U.S. shipping",
+        "rate": 1.5,
+        "description": "1.5X miles on U.S. shipping purchases."
+      },
+      {
+        "category": "U.S. advertising",
+        "rate": 1.5,
+        "description": "1.5X miles on U.S. advertising purchases."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X on all other purchases."
+      }
+    ],
+    "recommended_goals": [
+      "delta_status",
+      "companion_pass",
+      "business_travel"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 70,000 bonus miles after $5,000 in purchases in the first 3 months.",
+      "value_estimate": 840,
+      "spend_requirement": 5000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "Annual Companion Certificate (Main Cabin)",
+      "First checked bag free",
+      "Priority boarding",
+      "Discounted Sky Club access",
+      "Global Entry/TSA PreCheck credit",
+      "20% inflight savings"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Business Platinum",
+      "Blue Business Plus"
+    ],
+    "card_tier": "upper_mid_tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "airline",
+        "delta",
+        "business"
+      ],
+      "manual_tags": [
+        "delta",
+        "airline",
+        "business"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_reserve",
+    "name": "Delta SkyMiles\u00ae Reserve American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline",
+    "image": "images/cards/delta_reserve.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/rates-and-fees/",
+    "annual_fee": 650,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Delta purchases",
+        "rate": 3,
+        "description": "3X miles on Delta purchases."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X miles on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "delta_status",
+      "lounge_access",
+      "luxury_travel"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 60,000 bonus miles after $5,000 in purchases in the first 6 months.",
+      "value_estimate": 720,
+      "spend_requirement": 5000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "Annual Companion Certificate (First Class/Main Cabin)",
+      "Delta Sky Club access",
+      "Centurion Lounge access (with Delta flight)",
+      "First checked bag free",
+      "Priority boarding",
+      "Upgrade priority",
+      "20% inflight savings",
+      "Global Entry/TSA PreCheck credit"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Platinum",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "luxury",
+        "lounge_access",
+        "delta"
+      ],
+      "manual_tags": [
+        "delta",
+        "airline",
+        "premium"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "delta_skymiles_reserve_business",
+    "name": "Delta SkyMiles\u00ae Reserve Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline_business",
+    "image": "images/cards/delta_reserve_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-business-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-business-american-express-card/rates-and-fees/",
+    "annual_fee": 650,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+      {
+        "category": "Delta purchases",
+        "rate": 3,
+        "description": "3X miles on Delta purchases."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 1,
+        "description": "1X miles on everyday business purchases."
+      }
+    ],
+    "recommended_goals": [
+      "lounge_access",
+      "delta_status",
+      "luxury_business_travel"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 75,000 bonus miles after $6,000 in purchases in the first 3 months.",
+      "value_estimate": 900,
+      "spend_requirement": 6000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "Delta Sky Club access",
+      "Centurion Lounge access (Delta flight required)",
+      "Companion Certificate (First Class or Main Cabin)",
+      "Upgrade priority",
+      "First checked bag free",
+      "Priority boarding",
+      "TSA PreCheck/Global Entry credit",
+      "20% inflight savings"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Business Platinum",
+      "Blue Business Plus"
+    ],
+    "card_tier": "premium_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "luxury",
+        "lounge_access",
+        "delta",
+        "business"
+      ],
+      "manual_tags": [
+        "delta",
+        "airline",
+        "premium",
+        "business"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "hilton_honors_no_af",
+    "name": "Hilton Honors American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "images/cards/hilton_honors.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "None",
+    "min_credit_score": 680,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Hilton Honors",
+    "rewards_currency": "Hilton Honors Points",
+    "point_value_baseline": 0.004,
+    "point_value_max": 0.006,
+    "rewards": [
+      {
+        "category": "Hilton hotels",
+        "rate": 7,
+        "description": "7X Hilton Honors points on Hilton hotel and resort purchases."
+      },
+      {
+        "category": "Dining",
+        "rate": 5,
+        "description": "5X on dining at U.S. restaurants."
+      },
+      {
+        "category": "Groceries",
+        "rate": 5,
+        "description": "5X at U.S. supermarkets."
+      },
+      {
+        "category": "Gas",
+        "rate": 5,
+        "description": "5X at U.S. gas stations."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 3,
+        "description": "3X on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "budget_travel",
+      "hotel_rewards",
+      "no_annual_fee"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 70,000 Hilton Honors Bonus Points after $1,000 in purchases in the first 6 months.",
+      "value_estimate": 350,
+      "spend_requirement": 1000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "Complimentary Hilton Honors Silver status",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Gold",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "entry",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "hotel",
+        "no_fee",
+        "hilton"
+      ],
+      "manual_tags": [
+        "hilton",
+        "hotel"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "hilton_honors_aspire",
+    "name": "Hilton Honors American Express Aspire\u00ae Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "images/cards/hilton_honors_aspire.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire-card/rates-and-fees/",
+    "annual_fee": 550,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Hilton Honors",
+    "rewards_currency": "Hilton Honors Points",
+    "point_value_baseline": 0.004,
+    "point_value_max": 0.006,
+    "rewards": [
+      {
+        "category": "Hilton hotels",
+        "rate": 14,
+        "description": "14X points on eligible Hilton hotel and resort purchases."
+      },
+      {
+        "category": "Flights",
+        "rate": 7,
+        "description": "7X points on flights booked directly with airlines or Amex Travel."
+      },
+      {
+        "category": "Car rentals",
+        "rate": 7,
+        "description": "7X on eligible car rentals."
+      },
+      {
+        "category": "Dining",
+        "rate": 7,
+        "description": "7X points at U.S. restaurants."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 3,
+        "description": "3X on other purchases."
+      }
+    ],
+    "recommended_goals": [
+      "luxury_hotel",
+      "hilton_diamond",
+      "premium_travel"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 180,000 Hilton Honors Bonus Points after $6,000 in purchases in the first 6 months.",
+      "value_estimate": 720,
+      "spend_requirement": 6000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "Complimentary Hilton Honors Diamond status",
+      "Annual Free Night Certificate",
+      "$400 Hilton Resort Credit",
+      "$200 Airline Fee Credit",
+      "Priority Pass membership",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Platinum",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "hotel",
+        "luxury",
+        "hilton",
+        "diamond_status"
+      ],
+      "manual_tags": [
+        "hilton",
+        "premium"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "hilton_honors_surpass",
+    "name": "Hilton Honors American Express Surpass\u00ae Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "images/cards/hilton_honors_surpass.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass-card/rates-and-fees/",
+    "annual_fee": 150,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Hilton Honors",
+    "rewards_currency": "Hilton Honors Points",
+    "point_value_baseline": 0.004,
+    "point_value_max": 0.006,
+    "rewards": [
+      {
+        "category": "Hilton hotels",
+        "rate": 12,
+        "description": "12X points on eligible Hilton hotel and resort purchases."
+      },
+      {
+        "category": "Dining",
+        "rate": 6,
+        "description": "6X at U.S. restaurants."
+      },
+      {
+        "category": "Groceries",
+        "rate": 6,
+        "description": "6X at U.S. supermarkets."
+      },
+      {
+        "category": "Gas",
+        "rate": 6,
+        "description": "6X at U.S. gas stations."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 3,
+        "description": "3X on all other purchases."
+      }
+    ],
+    "recommended_goals": [
+      "mid_tier_hotel",
+      "hilton_gold_status",
+      "free_night"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 130,000 Hilton Honors Bonus Points after spending $2,000 in the first 6 months.",
+      "value_estimate": 520,
+      "spend_requirement": 2000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "Complimentary Hilton Honors Gold status",
+      "Free Night Reward after $15,000 spend",
+      "Priority Pass (10 visits)",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Platinum",
+      "Amex Blue Business Plus"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "hotel",
+        "hilton",
+        "gold_status"
+      ],
+      "manual_tags": [
+        "hilton",
+        "hotel",
+        "mid_tier"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "marriott_bonvoy_brilliant",
+    "name": "Marriott Bonvoy Brilliant\u00ae American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "images/cards/marriott_bonvoy_brilliant.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/rates-and-fees/",
+    "annual_fee": 650,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Marriott Bonvoy",
+    "rewards_currency": "Bonvoy Points",
+    "point_value_baseline": 0.006,
+    "point_value_max": 0.009,
+    "rewards": [
+      {
+        "category": "Marriott hotels",
+        "rate": 6,
+        "description": "6X points at participating Marriott Bonvoy hotels."
+      },
+      {
+        "category": "Restaurants (worldwide)",
+        "rate": 3,
+        "description": "3X points at restaurants worldwide."
+      },
+      {
+        "category": "Flights",
+        "rate": 3,
+        "description": "3X points on flights booked directly with airlines."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 2,
+        "description": "2X points on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "luxury_hotel",
+      "marriott_loyalist",
+      "elite_status"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 95,000 Marriott Bonvoy bonus points after spending $6,000 in the first 6 months.",
+      "value_estimate": 665,
+      "spend_requirement": 6000,
+      "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+      "Complimentary Marriott Bonvoy Platinum Elite status",
+      "Annual Free Night Award (value up to 85,000 points)",
+      "$300 Dining Credit ($25 monthly)",
+      "Priority Pass (2 guests)",
+      "15 Elite Night Credits",
+      "Global Entry / TSA PreCheck credit",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule. Marriott eligibility rules also apply based on other Marriott cards held.",
+    "is_business": false,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Amex Platinum",
+      "Amex Gold"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "hotel",
+        "marriott",
+        "luxury"
+      ],
+      "manual_tags": [
+        "marriott",
+        "hotel",
+        "premium"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  },
+  {
+    "id": "marriott_bonvoy_business",
+    "name": "Marriott Bonvoy Business\u00ae American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel_business",
+    "image": "images/cards/marriott_bonvoy_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-business/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-business/rates-and-fees/",
+    "annual_fee": 125,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Marriott Bonvoy",
+    "rewards_currency": "Bonvoy Points",
+    "point_value_baseline": 0.006,
+    "point_value_max": 0.009,
+    "rewards": [
+      {
+        "category": "Marriott hotels",
+        "rate": 6,
+        "description": "6X points at participating Marriott Bonvoy hotels."
+      },
+      {
+        "category": "Dining",
+        "rate": 4,
+        "description": "4X on dining purchases worldwide."
+      },
+      {
+        "category": "U.S. gas stations",
+        "rate": 4,
+        "description": "4X at U.S. gas stations."
+      },
+      {
+        "category": "Wireless phone services",
+        "rate": 4,
+        "description": "4X on U.S. wireless providers."
+      },
+      {
+        "category": "Shipping",
+        "rate": 4,
+        "description": "4X on U.S. shipping purchases."
+      },
+      {
+        "category": "Other purchases",
+        "rate": 2,
+        "description": "2X on all other eligible purchases."
+      }
+    ],
+    "recommended_goals": [
+      "business_travel",
+      "marriott",
+      "elite_status"
+    ],
+    "sign_up_bonus": {
+      "description": "Earn 75,000 Marriott Bonvoy bonus points after $3,000 in purchases in the first 3 months.",
+      "value_estimate": 525,
+      "spend_requirement": 3000,
+      "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+      "Complimentary Marriott Gold Elite status",
+      "Annual Free Night Award (35,000 points)",
+      "15 Elite Night Credits",
+      "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card. Marriott/Amex eligibility restrictions apply.",
+    "is_business": true,
+    "available_regions": [
+      "United States"
+    ],
+    "pairing_synergy": [
+      "Business Platinum",
+      "Blue Business Plus"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+      "partner": null,
+      "offer_id": null,
+      "feed_source": null,
+      "last_synced": null,
+      "tracking_link": null,
+      "is_affiliate": false
+    },
+    "quiz_metadata": {
+      "recommended_for": [
+        "hotel",
+        "business",
+        "marriott"
+      ],
+      "manual_tags": [
+        "marriott",
+        "business",
+        "hotel"
+      ],
+      "local_only": false,
+      "region_priority": "national"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+{
+    "id": "hilton_honors_aspire",
+    "name": "Hilton Honors American Express Aspire\u00ae Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "/static/images/cards/hilton_honors_aspire.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire-card/rates-and-fees/",
+    "annual_fee": 550,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Hilton Honors",
+    "rewards_currency": "Hilton Honors Points",
+    "point_value_baseline": 0.004,
+    "point_value_max": 0.006,
+    "rewards": [
+        {
+            "category": "Hilton hotels",
+            "rate": 14,
+            "description": "14X points on eligible Hilton hotel and resort purchases."
+        },
+        {
+            "category": "Flights",
+            "rate": 7,
+            "description": "7X points on flights booked directly with airlines or Amex Travel."
+        },
+        {
+            "category": "Car rentals",
+            "rate": 7,
+            "description": "7X on eligible car rentals."
+        },
+        {
+            "category": "Dining",
+            "rate": 7,
+            "description": "7X points at U.S. restaurants."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 3,
+            "description": "3X on other purchases."
+        }
+    ],
+    "recommended_goals": [
+        "luxury_hotel",
+        "hilton_diamond",
+        "premium_travel"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 180,000 Hilton Honors Bonus Points after $6,000 in purchases in the first 6 months.",
+        "value_estimate": 720,
+        "spend_requirement": 6000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "Complimentary Hilton Honors Diamond status",
+        "Annual Free Night Certificate",
+        "$400 Hilton Resort Credit",
+        "$200 Airline Fee Credit",
+        "Priority Pass membership",
+        "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Platinum",
+        "Amex Blue Business Plus"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "hotel",
+            "luxury",
+            "hilton",
+            "diamond_status"
+        ],
+        "manual_tags": [
+            "hilton",
+            "premium"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

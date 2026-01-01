@@ -1,0 +1,106 @@
+{
+    "id": "amex_gold",
+    "name": "American Express\u00ae Gold Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "travel",
+    "image": "/static/images/cards/amex_gold.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/gold-card/rates-and-fees/",
+    "annual_fee": 250,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Pay Over Time APR varies, typically ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+        {
+            "category": "Dining worldwide",
+            "rate": 4,
+            "description": "4X points at restaurants worldwide, including takeout and delivery."
+        },
+        {
+            "category": "U.S. supermarkets",
+            "rate": 4,
+            "description": "4X points at U.S. supermarkets on up to $25,000 per year, then 1X."
+        },
+        {
+            "category": "Flights",
+            "rate": 3,
+            "description": "3X points on flights booked directly with airlines or via Amex Travel."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X points on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "dining",
+        "groceries",
+        "travel",
+        "foodie"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 60,000 Membership Rewards points after $6,000 spend in the first 6 months.",
+        "value_estimate": 600,
+        "spend_requirement": 6000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "$120 Dining Credit (Grubhub, Cheesecake Factory, etc.)",
+        "$120 Uber Cash",
+        "Car rental loss & damage insurance",
+        "Baggage insurance plan"
+    ],
+    "transfer_partners": [
+        "Air Canada Aeroplan",
+        "ANA Mileage Club",
+        "British Airways Avios",
+        "Delta SkyMiles (indirect)",
+        "Virgin Atlantic",
+        "Singapore KrisFlyer",
+        "Choice Hotels",
+        "Hilton",
+        "Marriott Bonvoy"
+    ],
+    "eligibility": "Once-per-lifetime welcome offer rules apply.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "American Express Blue Business Plus",
+        "Amex Platinum"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "dining",
+            "groceries",
+            "travel"
+        ],
+        "manual_tags": [
+            "food",
+            "grocery",
+            "mrx_points"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

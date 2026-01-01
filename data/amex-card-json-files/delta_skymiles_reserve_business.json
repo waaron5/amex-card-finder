@@ -1,0 +1,91 @@
+{
+    "id": "delta_skymiles_reserve_business",
+    "name": "Delta SkyMiles\u00ae Reserve Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline_business",
+    "image": "/static/images/cards/delta_reserve_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-business-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-business-american-express-card/rates-and-fees/",
+    "annual_fee": 650,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+        {
+            "category": "Delta purchases",
+            "rate": 3,
+            "description": "3X miles on Delta purchases."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X miles on everyday business purchases."
+        }
+    ],
+    "recommended_goals": [
+        "lounge_access",
+        "delta_status",
+        "luxury_business_travel"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 75,000 bonus miles after $6,000 in purchases in the first 3 months.",
+        "value_estimate": 900,
+        "spend_requirement": 6000,
+        "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+        "Delta Sky Club access",
+        "Centurion Lounge access (Delta flight required)",
+        "Companion Certificate (First Class or Main Cabin)",
+        "Upgrade priority",
+        "First checked bag free",
+        "Priority boarding",
+        "TSA PreCheck/Global Entry credit",
+        "20% inflight savings"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; Amex lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Business Platinum",
+        "Blue Business Plus"
+    ],
+    "card_tier": "premium_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "luxury",
+            "lounge_access",
+            "delta",
+            "business"
+        ],
+        "manual_tags": [
+            "delta",
+            "airline",
+            "premium",
+            "business"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

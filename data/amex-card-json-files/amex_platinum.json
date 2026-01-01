@@ -1,0 +1,115 @@
+{
+    "id": "amex_platinum",
+    "name": "The Platinum Card\u00ae from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "travel",
+    "image": "/static/images/cards/amex_platinum.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/platinum/rates-and-fees/",
+    "annual_fee": 695,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "See Pay Over Time APR: variable, typically 20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+        {
+            "category": "Flights (Amex Travel or airlines direct)",
+            "rate": 5,
+            "description": "5X points on flights booked directly with airlines or through American Express Travel, on up to $500,000 per calendar year."
+        },
+        {
+            "category": "Hotels (Amex Travel)",
+            "rate": 5,
+            "description": "5X points on prepaid hotels booked through Amex Travel."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X point per dollar on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "frequent_travel",
+        "luxury_travel",
+        "airport_lounge_access",
+        "status_chasing",
+        "high_spender"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 80,000 Membership Rewards\u00ae points after spending $8,000 on purchases in the first 6 months.",
+        "value_estimate": 800,
+        "spend_requirement": 8000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "$200 Airline Fee Credit",
+        "$200 Uber Cash",
+        "$240 Digital Entertainment Credit",
+        "$300 Equinox Credit",
+        "$200 Hotel Credit (Fine Hotels + Resorts / The Hotel Collection)",
+        "$189 CLEAR\u00ae Plus Credit",
+        "$155 Walmart+ Credit",
+        "Global Entry / TSA PreCheck Credit",
+        "Centurion Lounge access",
+        "Delta Sky Club access (limitations apply)",
+        "Priority Pass lounges (enrollment required)",
+        "Hilton Honors Gold status",
+        "Marriott Bonvoy Gold Elite status"
+    ],
+    "transfer_partners": [
+        "Delta SkyMiles",
+        "Air Canada Aeroplan",
+        "British Airways Avios",
+        "Virgin Atlantic Flying Club",
+        "Singapore KrisFlyer",
+        "ANA Mileage Club",
+        "Qantas",
+        "Emirates",
+        "JetBlue TrueBlue",
+        "Choice Privileges",
+        "Hilton Honors",
+        "Marriott Bonvoy"
+    ],
+    "eligibility": "Welcome offer not available to applicants who have had this product before (Amex once-per-lifetime rule).",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "American Express Gold Card",
+        "American Express Blue Business Plus"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "travel",
+            "airport_lounges",
+            "luxury",
+            "international_travel"
+        ],
+        "manual_tags": [
+            "premium_travel",
+            "lounge_access",
+            "status"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

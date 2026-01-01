@@ -1,0 +1,91 @@
+{
+    "id": "amex_business_green",
+    "name": "American Express\u00ae Business Green Rewards Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_travel",
+    "image": "/static/images/cards/amex_business_green_rewards.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/business-green-rewards/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/business-green-rewards/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 680,
+    "ongoing_apr": "Pay Over Time APR varies, typically ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+        {
+            "category": "Travel (Amex Travel)",
+            "rate": 2,
+            "description": "2X points on travel booked through American Express Travel."
+        },
+        {
+            "category": "All other purchases",
+            "rate": 1,
+            "description": "1X point on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "business_travel",
+        "membership_rewards"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 15,000 Membership Rewards points after $3,000 in purchases in 3 months.",
+        "value_estimate": 150,
+        "spend_requirement": 3000,
+        "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+        "Expanded Buying Power",
+        "Car rental loss & damage insurance",
+        "Baggage insurance",
+        "Employee cards available"
+    ],
+    "transfer_partners": [
+        "Air Canada Aeroplan",
+        "ANA Mileage Club",
+        "British Airways Avios",
+        "Virgin Atlantic",
+        "Singapore KrisFlyer",
+        "Choice Hotels",
+        "Hilton",
+        "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex lifetime rule applies for the welcome offer.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Blue Business Plus",
+        "Business Platinum"
+    ],
+    "card_tier": "entry_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "business",
+            "travel"
+        ],
+        "manual_tags": [
+            "business",
+            "travel"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

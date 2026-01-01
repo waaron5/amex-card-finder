@@ -1,0 +1,105 @@
+{
+    "id": "marriott_bonvoy_business",
+    "name": "Marriott Bonvoy Business\u00ae American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel_business",
+    "image": "/static/images/cards/marriott_bonvoy_business.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-business/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-business/rates-and-fees/",
+    "annual_fee": 125,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Marriott Bonvoy",
+    "rewards_currency": "Bonvoy Points",
+    "point_value_baseline": 0.006,
+    "point_value_max": 0.009,
+    "rewards": [
+        {
+            "category": "Marriott hotels",
+            "rate": 6,
+            "description": "6X points at participating Marriott Bonvoy hotels."
+        },
+        {
+            "category": "Dining",
+            "rate": 4,
+            "description": "4X on dining purchases worldwide."
+        },
+        {
+            "category": "U.S. gas stations",
+            "rate": 4,
+            "description": "4X at U.S. gas stations."
+        },
+        {
+            "category": "Wireless phone services",
+            "rate": 4,
+            "description": "4X on U.S. wireless providers."
+        },
+        {
+            "category": "Shipping",
+            "rate": 4,
+            "description": "4X on U.S. shipping purchases."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 2,
+            "description": "2X on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "business_travel",
+        "marriott",
+        "elite_status"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 75,000 Marriott Bonvoy bonus points after $3,000 in purchases in the first 3 months.",
+        "value_estimate": 525,
+        "spend_requirement": 3000,
+        "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+        "Complimentary Marriott Gold Elite status",
+        "Annual Free Night Award (35,000 points)",
+        "15 Elite Night Credits",
+        "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card. Marriott/Amex eligibility restrictions apply.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Business Platinum",
+        "Blue Business Plus"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "hotel",
+            "business",
+            "marriott"
+        ],
+        "manual_tags": [
+            "marriott",
+            "business",
+            "hotel"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

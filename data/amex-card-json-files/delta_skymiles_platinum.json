@@ -1,0 +1,101 @@
+{
+    "id": "delta_skymiles_platinum",
+    "name": "Delta SkyMiles\u00ae Platinum American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "airline",
+    "image": "/static/images/cards/delta_platinum.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/rates-and-fees/",
+    "annual_fee": 350,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Delta SkyMiles",
+    "rewards_currency": "Delta SkyMiles",
+    "point_value_baseline": 0.012,
+    "point_value_max": 0.018,
+    "rewards": [
+        {
+            "category": "Delta purchases",
+            "rate": 3,
+            "description": "3X miles on Delta purchases."
+        },
+        {
+            "category": "Hotels",
+            "rate": 3,
+            "description": "3X miles at hotels."
+        },
+        {
+            "category": "Dining",
+            "rate": 2,
+            "description": "2X miles at restaurants worldwide."
+        },
+        {
+            "category": "Supermarkets",
+            "rate": 2,
+            "description": "2X miles at U.S. supermarkets."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X miles on everything else."
+        }
+    ],
+    "recommended_goals": [
+        "delta_status",
+        "companion_pass",
+        "airline_perks"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 50,000 bonus miles after $3,000 in purchases in the first 6 months.",
+        "value_estimate": 600,
+        "spend_requirement": 3000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "Annual Companion Certificate (Main Cabin)",
+        "First checked bag free",
+        "Priority boarding",
+        "Global Entry/TSA PreCheck credit",
+        "20% inflight savings",
+        "Discounted Sky Club access"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Gold",
+        "Amex Blue Business Plus"
+    ],
+    "card_tier": "upper_mid_tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "airline",
+            "delta",
+            "companion_pass"
+        ],
+        "manual_tags": [
+            "delta",
+            "airline"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "id": "hilton_honors_surpass",
+    "name": "Hilton Honors American Express Surpass\u00ae Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "/static/images/cards/hilton_honors_surpass.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass-card/rates-and-fees/",
+    "annual_fee": 150,
+    "foreign_fees": "None",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Hilton Honors",
+    "rewards_currency": "Hilton Honors Points",
+    "point_value_baseline": 0.004,
+    "point_value_max": 0.006,
+    "rewards": [
+        {
+            "category": "Hilton hotels",
+            "rate": 12,
+            "description": "12X points on eligible Hilton hotel and resort purchases."
+        },
+        {
+            "category": "Dining",
+            "rate": 6,
+            "description": "6X at U.S. restaurants."
+        },
+        {
+            "category": "Groceries",
+            "rate": 6,
+            "description": "6X at U.S. supermarkets."
+        },
+        {
+            "category": "Gas",
+            "rate": 6,
+            "description": "6X at U.S. gas stations."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 3,
+            "description": "3X on all other purchases."
+        }
+    ],
+    "recommended_goals": [
+        "mid_tier_hotel",
+        "hilton_gold_status",
+        "free_night"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 130,000 Hilton Honors Bonus Points after spending $2,000 in the first 6 months.",
+        "value_estimate": 520,
+        "spend_requirement": 2000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "Complimentary Hilton Honors Gold status",
+        "Free Night Reward after $15,000 spend",
+        "Priority Pass (10 visits)",
+        "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule applies.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Platinum",
+        "Amex Blue Business Plus"
+    ],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "hotel",
+            "hilton",
+            "gold_status"
+        ],
+        "manual_tags": [
+            "hilton",
+            "hotel",
+            "mid_tier"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

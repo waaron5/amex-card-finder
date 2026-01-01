@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>American Express Card Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <h1>American Express Card Finder</h1>
+        <p>Search and filter Amex credit cards by rewards, fees, and card type.</p>
+    </header>
+
+    <main>
+
+        <!-- Search & Filters -->
+        <section class="filters-section">
+            <form class="search-and-filters">
+
+                <div class="filter">
+                    <label for="search">Search</label>
+                    <input type="text" id="search" placeholder="Search cards...">
+                </div>
+
+                <div class="filter">
+                    <label for="card-type">Card Type</label>
+                    <select id="card-type">
+                        <option value="">All</option>
+                        <option value="personal">Personal</option>
+                        <option value="business">Business</option>
+                    </select>
+                </div>
+
+                <div class="filter">
+                    <label for="rewards-category">Rewards Category</label>
+                    <select id="rewards-category">
+                        <option value="all">All</option>
+                        <option value="travel">Travel</option>
+                        <option value="dining">Dining</option>
+                        <option value="groceries">Groceries</option>
+                        <option value="amazon">Amazon</option>
+                        <option value="business">Business Spending</option>
+                        <option value="general">General / Everyday</option>
+                    </select>
+                </div>
+
+                <div class="filter">
+                    <label for="annual-fee">Annual Fee</label>
+                    <select id="annual-fee">
+                        <option value="">Any</option>
+                        <option value="no-fee">No Annual Fee</option>
+                        <option value="under-100">Under $100</option>
+                        <option value="premium">Premium</option>
+                    </select>
+                </div>
+
+                <button type="button" class="clear-filters">
+                    Clear Filters
+                </button>
+
+            </form>
+        </section>
+
+        <!-- Results -->
+        <section class="results-section">
+            <h2>Card Results</h2>
+            <div class="cards"></div>
+        </section>
+
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

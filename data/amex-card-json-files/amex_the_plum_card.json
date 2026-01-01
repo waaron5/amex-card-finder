@@ -1,0 +1,84 @@
+{
+    "id": "amex_plum_card",
+    "name": "The Plum Card\u00ae from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_charge",
+    "image": "/static/images/cards/amex_the_plum_card.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/plum-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/plum-card/rates-and-fees/",
+    "annual_fee": 250,
+    "foreign_fees": "No foreign transaction fees",
+    "min_credit_score": 700,
+    "ongoing_apr": "N/A \u2013 Pay-in-full or pay over time (charge card terms)",
+    "intro_apr": null,
+    "reward_program": "Cash discount",
+    "rewards_currency": "Statement Credit",
+    "point_value_baseline": null,
+    "point_value_max": null,
+    "rewards": [
+        {
+            "category": "Early Pay Discount",
+            "rate": 1.5,
+            "description": "1.5% discount when you pay your balance early (within 10 days of statement closing)."
+        },
+        {
+            "category": "Flexible Pay Terms",
+            "rate": 0,
+            "description": "Take up to 60 days to pay with no interest when minimum payment requirements are met."
+        }
+    ],
+    "recommended_goals": [
+        "business_cash_flow",
+        "flexible_payment",
+        "no_interest"
+    ],
+    "sign_up_bonus": {
+        "description": null,
+        "value_estimate": null,
+        "spend_requirement": null,
+        "timeframe_months": null
+    },
+    "credits_and_benefits": [
+        "Flexible spending limit (no preset spending limit)",
+        "1.5% early payment discount",
+        "Up to 60 days to pay with no interest",
+        "Employee cards at no additional cost",
+        "Purchase protection"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card with charge card terms; early pay discount rules apply.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Blue Business Plus",
+        "Business Platinum"
+    ],
+    "card_tier": "mid-tier_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "business_cash_flow",
+            "flexible_payment"
+        ],
+        "manual_tags": [
+            "charge_card",
+            "business"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

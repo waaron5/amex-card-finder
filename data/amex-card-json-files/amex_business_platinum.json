@@ -1,0 +1,107 @@
+{
+    "id": "amex_business_platinum",
+    "name": "The Business Platinum Card\u00ae from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "business_travel",
+    "image": "/static/images/cards/amex_business_platinum.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/business-platinum-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/business-platinum-card/rates-and-fees/",
+    "annual_fee": 695,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Pay Over Time APR varies (~20%\u201328%)",
+    "intro_apr": null,
+    "reward_program": "Membership Rewards",
+    "rewards_currency": "Membership Rewards Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.02,
+    "rewards": [
+        {
+            "category": "Flights & prepaid hotels (AmexTravel.com)",
+            "rate": 5,
+            "description": "5X points on flights and prepaid hotels booked through Amex Travel."
+        },
+        {
+            "category": "Selected business categories",
+            "rate": 1.5,
+            "description": "1.5X points on eligible purchases in key business categories (over $5k purchases and specific categories designated by Amex)."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1X point per dollar on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "premium_business_travel",
+        "airport_lounges",
+        "high_spend",
+        "luxury"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 120,000 Membership Rewards points after $15,000 in purchases in the first 3 months.",
+        "value_estimate": 1200,
+        "spend_requirement": 15000,
+        "timeframe_months": 3
+    },
+    "credits_and_benefits": [
+        "$200 Airline Fee Credit",
+        "$400 Dell Credit",
+        "$360 Indeed Credit",
+        "$150 Adobe Credit",
+        "$120 Wireless Credit",
+        "Airport lounge access: Centurion, Priority Pass, Delta Sky Club",
+        "Fine Hotels + Resorts benefits",
+        "Global Entry / TSA PreCheck credit",
+        "Hilton Gold status",
+        "Marriott Gold status",
+        "No foreign transaction fees"
+    ],
+    "transfer_partners": [
+        "Air Canada Aeroplan",
+        "ANA Mileage Club",
+        "British Airways Avios",
+        "Virgin Atlantic",
+        "Singapore KrisFlyer",
+        "Choice Hotels",
+        "Hilton",
+        "Marriott Bonvoy"
+    ],
+    "eligibility": "Business card; Amex once-per-lifetime rule applies.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Blue Business Plus",
+        "Amex Business Gold"
+    ],
+    "card_tier": "premium_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "business",
+            "travel",
+            "luxury"
+        ],
+        "manual_tags": [
+            "premium",
+            "lounge_access",
+            "business"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "id": "marriott_bonvoy_brilliant",
+    "name": "Marriott Bonvoy Brilliant\u00ae American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "hotel",
+    "image": "/static/images/cards/marriott_bonvoy_brilliant.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/rates-and-fees/",
+    "annual_fee": 650,
+    "foreign_fees": "None",
+    "min_credit_score": 720,
+    "ongoing_apr": "Variable ~20%\u201328%",
+    "intro_apr": null,
+    "reward_program": "Marriott Bonvoy",
+    "rewards_currency": "Bonvoy Points",
+    "point_value_baseline": 0.006,
+    "point_value_max": 0.009,
+    "rewards": [
+        {
+            "category": "Marriott hotels",
+            "rate": 6,
+            "description": "6X points at participating Marriott Bonvoy hotels."
+        },
+        {
+            "category": "Restaurants (worldwide)",
+            "rate": 3,
+            "description": "3X points at restaurants worldwide."
+        },
+        {
+            "category": "Flights",
+            "rate": 3,
+            "description": "3X points on flights booked directly with airlines."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 2,
+            "description": "2X points on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "luxury_hotel",
+        "marriott_loyalist",
+        "elite_status"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn 95,000 Marriott Bonvoy bonus points after spending $6,000 in the first 6 months.",
+        "value_estimate": 665,
+        "spend_requirement": 6000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "Complimentary Marriott Bonvoy Platinum Elite status",
+        "Annual Free Night Award (value up to 85,000 points)",
+        "$300 Dining Credit ($25 monthly)",
+        "Priority Pass (2 guests)",
+        "15 Elite Night Credits",
+        "Global Entry / TSA PreCheck credit",
+        "No foreign transaction fees"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Amex lifetime rule. Marriott eligibility rules also apply based on other Marriott cards held.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Amex Platinum",
+        "Amex Gold"
+    ],
+    "card_tier": "premium",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "hotel",
+            "marriott",
+            "luxury"
+        ],
+        "manual_tags": [
+            "marriott",
+            "hotel",
+            "premium"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

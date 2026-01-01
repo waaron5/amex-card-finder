@@ -1,0 +1,96 @@
+{
+    "id": "amex_blue_cash_preferred",
+    "name": "Blue Cash Preferred\u00ae Card from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "cash_back",
+    "image": "/static/images/cards/amex_blue_cash_preferred.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/rates-and-fees/",
+    "annual_fee": 95,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable ~19.74%\u201328.74%",
+    "intro_apr": "0% for 12 months on purchases and balance transfers",
+    "reward_program": "Cash Back (Reward Dollars)",
+    "rewards_currency": "Reward Dollars",
+    "point_value_baseline": 0.01,
+    "point_value_max": null,
+    "rewards": [
+        {
+            "category": "U.S. supermarkets",
+            "rate": 6,
+            "description": "6% cash back on up to $6,000 of purchases per year, then 1% back."
+        },
+        {
+            "category": "Select U.S. streaming subscriptions",
+            "rate": 6,
+            "description": "6% cash back on eligible streaming subscriptions."
+        },
+        {
+            "category": "U.S. gas stations",
+            "rate": 3,
+            "description": "3% cash back."
+        },
+        {
+            "category": "Transit (U.S.)",
+            "rate": 3,
+            "description": "3% cash back."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1% cash back on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "grocery_heavy",
+        "streaming_subscriptions",
+        "transit_commuter",
+        "cash_back"
+    ],
+    "sign_up_bonus": {
+        "description": "Earn $250 statement credit after $3,000 in purchases in your first 6 months.",
+        "value_estimate": 250,
+        "spend_requirement": 3000,
+        "timeframe_months": 6
+    },
+    "credits_and_benefits": [
+        "$120 annual streaming credit (enrollment required)",
+        "Purchase protection & return protection"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Standard AMEX credit card eligibility; cash back product.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [],
+    "card_tier": "mid-tier",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "cash_back",
+            "grocery",
+            "streaming"
+        ],
+        "manual_tags": [
+            "cash_back",
+            "groceries",
+            "streaming"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

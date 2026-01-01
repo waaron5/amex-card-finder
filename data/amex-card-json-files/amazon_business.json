@@ -1,0 +1,92 @@
+{
+    "id": "amazon_business_amex",
+    "name": "Amazon Business American Express Card",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "retail_business",
+    "image": "/static/images/cards/amazon_business_angled.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/amazon-business-card/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/amazon-business-card/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 680,
+    "ongoing_apr": "Variable ~18%\u201327%",
+    "intro_apr": null,
+    "reward_program": "Amazon Rewards",
+    "rewards_currency": "Amazon Points",
+    "point_value_baseline": 0.01,
+    "point_value_max": 0.01,
+    "rewards": [
+        {
+            "category": "Amazon Business / AWS",
+            "rate": 3,
+            "description": "3% back or 60-day terms at Amazon Business, AWS, and Whole Foods Market."
+        },
+        {
+            "category": "U.S. restaurants",
+            "rate": 2,
+            "description": "2% back at U.S. restaurants."
+        },
+        {
+            "category": "U.S. gas stations",
+            "rate": 2,
+            "description": "2% back at U.S. gas stations."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1% back on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "amazon_business",
+        "cash_back",
+        "aws_spend"
+    ],
+    "sign_up_bonus": {
+        "description": "Get a $100 Amazon Gift Card upon approval.",
+        "value_estimate": 100,
+        "spend_requirement": 0,
+        "timeframe_months": 0
+    },
+    "credits_and_benefits": [
+        "No annual fee",
+        "Option for 60-day payment terms instead of rewards",
+        "Employee cards for no additional cost"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Business card; approval also gives immediate $100 gift card credit.",
+    "is_business": true,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [
+        "Blue Business Plus"
+    ],
+    "card_tier": "entry_business",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "business",
+            "amazon"
+        ],
+        "manual_tags": [
+            "amazon",
+            "business",
+            "cash_back"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}

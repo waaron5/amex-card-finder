@@ -1,0 +1,88 @@
+{
+    "id": "amex_blue_cash_everyday",
+    "name": "Blue Cash Everyday\u00ae Card from American Express",
+    "issuer": "American Express",
+    "network": "American Express",
+    "card_type": "cash_back",
+    "image": "/static/images/cards/amex_blue_cash_everyday.webp",
+    "apply_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
+    "rates_and_fees_link": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/rates-and-fees/",
+    "annual_fee": 0,
+    "foreign_fees": "2.7%",
+    "min_credit_score": 700,
+    "ongoing_apr": "Variable",
+    "intro_apr": null,
+    "reward_program": "Cash Back (Reward Dollars)",
+    "rewards_currency": "Reward Dollars",
+    "point_value_baseline": 0.01,
+    "point_value_max": null,
+    "rewards": [
+        {
+            "category": "U.S. supermarkets",
+            "rate": 3,
+            "description": "3% cash back on up to $6,000 of purchases per year in this category, then 1%."
+        },
+        {
+            "category": "U.S. online retail purchases",
+            "rate": 3,
+            "description": "3% cash back on up to $6,000 of purchases per year in this category, then 1%."
+        },
+        {
+            "category": "U.S. gas stations",
+            "rate": 3,
+            "description": "3% cash back on up to $6,000 of purchases per year in this category, then 1%."
+        },
+        {
+            "category": "Other purchases",
+            "rate": 1,
+            "description": "1% cash back on all other eligible purchases."
+        }
+    ],
+    "recommended_goals": [
+        "no_annual_fee",
+        "everyday_spending",
+        "cash_back"
+    ],
+    "sign_up_bonus": {
+        "description": null,
+        "value_estimate": null,
+        "spend_requirement": null,
+        "timeframe_months": null
+    },
+    "credits_and_benefits": [
+        "$84 streaming credit (Disney Bundle) \u2013 enrollment required"
+    ],
+    "transfer_partners": [],
+    "eligibility": "Standard AMEX credit card eligibility; no annual fee product.",
+    "is_business": false,
+    "available_regions": [
+        "United States"
+    ],
+    "pairing_synergy": [],
+    "card_tier": "entry",
+    "availability_status": "active",
+    "visibility": true,
+    "data_source": "manual",
+    "last_updated": "2025-11-18",
+    "affiliate_metadata": {
+        "partner": null,
+        "offer_id": null,
+        "feed_source": null,
+        "last_synced": null,
+        "tracking_link": null,
+        "is_affiliate": false
+    },
+    "quiz_metadata": {
+        "recommended_for": [
+            "budget_friendly",
+            "cash_back",
+            "everyday"
+        ],
+        "manual_tags": [
+            "no_fee",
+            "cash_back"
+        ],
+        "local_only": false,
+        "region_priority": "national"
+    }
+}
