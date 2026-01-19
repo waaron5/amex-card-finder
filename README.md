@@ -6,7 +6,7 @@ A web application to search and filter American Express credit cards by rewards,
 
 The application is hosted on GitHub Pages and can be accessed at:
 
-**https://waaron5.github.io/amex-card-finder/**
+**[https://waaron5.github.io/amex-card-finder/](https://waaron5.github.io/amex-card-finder/)**
 
 ## Features
 
